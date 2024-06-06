@@ -49,6 +49,7 @@ h2 {
 }
 
 .botao {
+    display: flex;
     background-color: #ff725e;
     border-radius: 8px;
     color: #ffffff;
@@ -58,6 +59,7 @@ h2 {
 }
 
 .botao-transparente {
+    display: flex;
     background-color: transparent;
     color: #ff725e;
     padding: 16px 32px;
